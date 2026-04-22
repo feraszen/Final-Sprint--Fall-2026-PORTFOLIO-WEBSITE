@@ -50,12 +50,6 @@ index.html
 
 ---
 
-## 📸 Preview
-
-*Add screenshots here later for stronger presentation*
-
----
-
 ## 📈 Future Improvements
 
 * Add animations for better UX
